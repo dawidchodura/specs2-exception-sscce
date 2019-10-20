@@ -1,6 +1,5 @@
 package example
 
-import org.specs2.main.ArgProperties
 import org.specs2.mutable.SpecWithJUnit
 import org.specs2.specification.Scope
 
